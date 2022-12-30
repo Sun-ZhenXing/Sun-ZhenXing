@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Sun-ZhenXing
 - 👀 I’m interested in Python, Minecraft, Arduino, RaspberryPi...
-- 🌱 I’m currently learning Python Std lib
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Sun-ZhenXing/Sun-ZhenXing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://github-readme-stats.vercel.app/api?username=summer-like-coding&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=summer-like-coding&theme=radical&hide_border=true)
