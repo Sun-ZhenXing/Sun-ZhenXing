@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sun-ZhenXing, you can call me Alex. I'm an **independent entrepreneur**.
+- 👋 Hi, I’m @Sun-ZhenXing, you can call me Alex.
 - 💼 Currently in college, majoring in Artificial Intelligence.
 - 👀 I’m interested in Python, Minecraft, Arduino, RaspberryPi...
 - 🚀 Currently interested in Nuxt3, AI and Image Processing.
